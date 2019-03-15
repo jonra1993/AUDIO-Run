@@ -33,9 +33,9 @@ It is compose of two parts. The first one is an electronic obstacle detection sy
 ## App
 
 <p align="center">
-  <img height="320" width="200" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
+  <img height="480" width="320" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
 
-  <img height="480" width="400" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
+  <img height="480" width="380" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
 
 </p>
 
