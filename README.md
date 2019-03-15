@@ -9,11 +9,13 @@ It is a project of bar-ball control using a pid. By serial communication users c
 <div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
-<div class="fb-video" 
+<div 
+  class="fb-video" 
   data-href="https://www.facebook.com/BGRoficial/videos/181602816075274/" 
   data-width="100%" 
   data-show-text="true"
-  data-autoplay="true">
+  data-autoplay="true"
+  align="center">
     <blockquote 
     cite="https://developers.facebook.com/BGRoficial/videos/181602816075274/" class="fb-xfbml-parse-ignore">
         <a href="https://developers.facebook.com/BGRoficial/videos/181602816075274/">
