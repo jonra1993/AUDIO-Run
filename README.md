@@ -33,26 +33,22 @@ It is compose of two parts. The first one is an electronic obstacle detection sy
 ## App
 
 <p align="center">
-  <img height="320" width="100" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun5.png">
+  <img height="320" width="200" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
 </p>
 
 <p align="center">
-  <img height="320" width="100" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
-</p>
-
-<p align="center">
-  <img height="480" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
+  <img height="480" width="400" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
 </p>
 
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.e.jona.randgo">
         <img height="72" width="72" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AudioRunlogo.png">
     </a>
+    <a href="https://play.google.com/store/apps/details?id=com.e.jona.randgo">
+      <img height="72" width="100" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/google-play-badge.png">
+    </a>
 </p>
 
-<p align="center">
-  <img height="72" width="100" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/google-play-badge.png">
-</p>
 
 ## License
 
