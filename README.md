@@ -1,6 +1,6 @@
 ## Description
 
-This project was developed for helping Luis Calo, an ecuadorian blind runner, in his training. This work was made in colaboration with "Banco General Ruminhaui" and "Santuario" agency.
+This project was developed for helping Luis Calo, an ecuadorian blind runner winner of many competitions, in his training. This work was made in colaboration with "Banco General Ruminhaui" and "Santuario" agency.
 
 It is compose of two parts. The first one is an electronic obstacle detection system by ultrasonic sensor and the second one is an android app which through gps and a sound controller can guide the users through a path preload as a gps map in gpx format. Also, it was designed to work with bone conduction headphones in order to not isolete the runner of the environment sounds with normal headphones
 
@@ -34,18 +34,23 @@ It is compose of two parts. The first one is an electronic obstacle detection sy
 
 <p align="center">
   <img height="320" width="200" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
+
+  <img height="480" width="400" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
+
 </p>
 
 <p align="center">
-  <img height="480" width="400" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
+
 </p>
+
+AUDIO Run is available in Google Play store.
 
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.e.jona.randgo">
-        <img height="72" width="72" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AudioRunlogo.png">
+        <img height="50" width="50" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AudioRunlogo.png">
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.e.jona.randgo">
-      <img height="72" width="100" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/google-play-badge.png">
+      <img height="50" width="120" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/google-play-badge.png">
     </a>
 </p>
 
