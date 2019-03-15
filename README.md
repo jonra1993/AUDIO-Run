@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+In this repository there are some implemented projects.
 
-You can use the [editor on GitHub](https://github.com/jonra1993/AUDIO-Run/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bar_Ball_Control
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is a project of bar-ball control using a pid. By serial communication users can change setpoint. 
+<br>
 
-### Markdown
+<p align="center">
+<video width="100%" controls>
+  <source src="https://www.facebook.com/BGRoficial/videos/181602816075274/" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Bluetooth Track
 
-```markdown
-Syntax highlighted code block
+It is a prototype of itrack. It uses bluetooth to conect with an app and through serial communication it detects when the itrack is too far and emit sound. But also by serial communication people can sent a signal to change color led and play alarms.
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+<p align="center">
+  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/2016-11-15-21.20.55.jpg">
+</p>
 
-- Bulleted
-- List
+<p align="center">
+<video width="100%" controls>
+  <source src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/itrack.mp4">
+Your browser does not support the video tag.
+</video>
+</p>
 
-1. Numbered
-2. List
+## PID temperature Control
 
-**Bold** and _Italic_ and `Code` text
+It is an arduino program for controlling temperature it uses a PID control there is as actuator a light bulb and a fan. Set point can be controlled by serial port.
+<br>
 
-[Link](url) and ![Image](src)
-```
+## Spyder Robot Dancing
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+It is a program using arduino and servomotors.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonra1993/AUDIO-Run/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## License
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2019 © <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a>.
+
