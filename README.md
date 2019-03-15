@@ -11,9 +11,8 @@ It is compose of two parts. The first one is an electronic obstacle detection sy
 <div 
   class="fb-video" 
   data-href="https://www.facebook.com/BGRoficial/videos/181602816075274/" 
-  data-width="500" 
+  data-width="800" 
   data-show-text="true"
-  data-autoplay="true"
   align="center">
     <blockquote 
     cite="https://developers.facebook.com/BGRoficial/videos/181602816075274/" class="fb-xfbml-parse-ignore">
