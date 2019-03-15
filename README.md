@@ -9,17 +9,22 @@ It is a project of bar-ball control using a pid. By serial communication users c
 <div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
-<div align="center" class="fb-video" data-href="https://www.facebook.com/BGRoficial/videos/181602816075274/" data-width="500" data-show-text="true">
-    <blockquote cite="https://developers.facebook.com/BGRoficial/videos/181602816075274/" class="fb-xfbml-parse-ignore">
+<div class="fb-video" 
+  data-href="https://www.facebook.com/BGRoficial/videos/181602816075274/" 
+  data-width="100%" 
+  data-show-text="true"
+  data-autoplay="true">
+    <blockquote 
+    cite="https://developers.facebook.com/BGRoficial/videos/181602816075274/" class="fb-xfbml-parse-ignore">
         <a href="https://developers.facebook.com/BGRoficial/videos/181602816075274/">
-            Innovación BGR
+          Innovación BGR
         </a>
         <p>
-            Celebramos 30 años de trabajo demostrando ser una entidad financiera seria, que brinda seguridad, agilidad, y servicio de calidad.
+          Celebramos 30 años de trabajo demostrando ser una entidad financiera seria, que brinda seguridad, agilidad, y servicio de calidad.
         </p>
         Publicado por 
         <a href="https://www.facebook.com/BGRoficial/">
-            BGR Banco General Rumiñahui
+          BGR Banco General Rumiñahui
         </a> 
         en Jueves, 4 de octubre de 2018
     </blockquote>
