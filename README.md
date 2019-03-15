@@ -33,6 +33,10 @@ It is a project of bar-ball control using a pid. By serial communication users c
     </a>
 </p>
 
+<p align="center">
+  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/google-play-badge.png">
+</p>
+
 
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun5.png">
