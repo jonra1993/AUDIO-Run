@@ -1,6 +1,6 @@
 ## Description
 
-This project was developed for helping Luis Calo, an ecuadorian blind runner winner of many competitions, in his training. This work was made in colaboration with "Banco General Ruminhaui" and "Santuario" agency.
+This project was developed for helping Luis Calo, an ecuadorian blind runner winner of many competitions, in his training. This work was made in collaboration with "Banco General Ruminhaui" and "Santuario" agency.
 
 It is compose of two parts. The first one is an electronic obstacle detection system by ultrasonic sensor and the second one is an android app which through gps and a sound controller can guide the users through a path preload as a gps map in gpx format. Also, it was designed to work with bone conduction headphones in order to not isolete the runner of the environment sounds with normal headphones
 
