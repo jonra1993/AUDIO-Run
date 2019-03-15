@@ -1,9 +1,8 @@
-In this repository there are some implemented projects.
+## Description
 
-## Bar_Ball_Control
+This project was developed for helping Luis Calo, an ecuadorian blind runner, in his training. This work was made in colaboration with "Banco General Ruminhaui" and "Santuario" agency.
 
-It is a project of bar-ball control using a pid. By serial communication users can change setpoint. 
-<br>
+It is compose of two parts. The first one is an electronic obstacle detection system by ultrasonic sensor and the second one is an android app which through gps and a sound controller can guide the users through a path preload as a gps map in gpx format. Also, it was designed to work with bone conduction headphones in order to not isolete the runner of the environment sounds with normal headphones
 
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
@@ -12,7 +11,7 @@ It is a project of bar-ball control using a pid. By serial communication users c
 <div 
   class="fb-video" 
   data-href="https://www.facebook.com/BGRoficial/videos/181602816075274/" 
-  data-width="100%" 
+  data-width="500" 
   data-show-text="true"
   data-autoplay="true"
   align="center">
@@ -32,29 +31,28 @@ It is a project of bar-ball control using a pid. By serial communication users c
     </blockquote>
 </div>
 
-## Bluetooth Track
+## App
+
+<p align="center">
+  <img height="320" width="100" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun5.png">
+</p>
+
+<p align="center">
+  <img height="320" width="100" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
+</p>
+
+<p align="center">
+  <img height="480" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
+</p>
 
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.e.jona.randgo">
-        <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AudioRunlogo.png">
+        <img height="72" width="72" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AudioRunlogo.png">
     </a>
 </p>
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/google-play-badge.png">
-</p>
-
-
-<p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun5.png">
-</p>
-
-<p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
-</p>
-
-<p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
+  <img height="72" width="100" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/google-play-badge.png">
 </p>
 
 ## License
