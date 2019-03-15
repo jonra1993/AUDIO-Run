@@ -5,12 +5,20 @@ In this repository there are some implemented projects.
 It is a project of bar-ball control using a pid. By serial communication users can change setpoint. 
 <br>
 
-<p align="center">
-<video width="100%" controls>
-  <source src="https://www.facebook.com/BGRoficial/videos/181602816075274/" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</p>
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+
+  <!-- Your embedded video player code -->
+  <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
+    <div class="fb-xfbml-parse-ignore">
+      <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
+        <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
+        <p>How to share with just friends.</p>
+        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
+      </blockquote>
+    </div>
+  </div>
 
 ## Bluetooth Track
 
