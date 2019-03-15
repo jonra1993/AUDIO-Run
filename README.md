@@ -33,7 +33,7 @@ It is compose of two parts. The first one is an electronic obstacle detection sy
 ## App
 
 <p align="center">
-  <img height="480" width="320" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
+  <img height="480" width="300" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun4.png">
 
   <img height="480" width="380" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AUDIORun1.jpg">
 
@@ -43,12 +43,8 @@ It is compose of two parts. The first one is an electronic obstacle detection sy
 
 </p>
 
-AUDIO Run is available in Google Play store.
 
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.e.jona.randgo">
-        <img height="50" width="50" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AudioRunlogo.png">
-    </a>
     <a href="https://play.google.com/store/apps/details?id=com.e.jona.randgo">
       <img height="72" width="160" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/google-play-badge.png">
     </a>
