@@ -55,5 +55,5 @@ It is compose of two parts. The first one is an electronic obstacle detection sy
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a>.
+- Copyright 2019 © <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas y Diego Navas</a>.
 
