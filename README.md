@@ -27,7 +27,7 @@ It is a project of bar-ball control using a pid. By serial communication users c
 
 ## Bluetooth Track
 
-<p align="center">
+<p align="center" href="https://play.google.com/store/apps/details?id=com.e.jona.randgo">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/AudioRunlogo.png">
 </p>
 
